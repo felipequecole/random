@@ -104,6 +104,5 @@ int main(int argc, char **argv){
     // }
 }
 
-//#pragma omp parallel no j, 
-//#pragma omp parallel for reduction(+:soma)
+
 
